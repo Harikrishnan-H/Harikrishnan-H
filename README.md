@@ -13,7 +13,7 @@
 
 - 🎓 Master's in Automotive Software Engineering @ **TH Deggendorf, Germany** *(2025–Present)*  
 - 👨‍🎓 Bachelor's in Electronics & Communications Engineering @ **APJ Abdul Kalam Technological University, India**  
-- 💻 Professional Experience as a Software Engineer @ **LG Soft India** and Quality Service Associate  @ **Amazon Development Centre India**
+- 💻 Professional Experience as a Software Engineer @ **LG Soft India** & Quality Service Associate  @ **Amazon Development Centre India**
 - 🤖 Passionate about **Embedded Software Development**
 - 🌱 Currently exploring Automotive Microcontrollers (Infineon AURIX TC375) and AI in Automotive Software Development
 
