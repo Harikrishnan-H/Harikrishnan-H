@@ -22,7 +22,7 @@
 ## 🛠️ Skills
 
 - 💻 Programming & Scripting: `C`, `C++`, `Python`, `Bash`
-- 🧰 Tools: `Git`, `TestRail`, `Qualcomm PCAT/QXDM`, `Anritsu's Signalling Tester`
+- 🧰 Tools: `Git`, `AURIX Development Studio`, `Qualcomm PCAT/QXDM`, `Anritsu's Signalling Tester`, `TestRail`, `Jira`
 - 🔌 Microcontrollers: `Infineon AURIX TC375` 
 - 🌐 Languages : English CEFR C1, German CEFR A2 (Ongoing)
 
