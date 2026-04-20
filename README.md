@@ -14,7 +14,7 @@
 - 🎓 Master's in Automotive Software Engineering @ **TH Deggendorf, Germany** *(2025–Present)*  
 - 👨‍🎓 Bachelor's in Electronics & Communications Engineering @ **APJ Abdul Kalam Technological University, India**  
 - 💻 Professional Experience as a Software Engineer @ **LG Soft India** & Quality Service Associate  @ **Amazon Development Centre**
-- 🤖 Passionate about **Embedded Software Development**
+- 🤖 Passionate about **Embedded Software Development** and **Artificial Intelligence**
 - 🌱 Currently exploring Automotive Microcontrollers (Infineon AURIX TC375) and AI in Automotive Software Development
 
 ---
@@ -22,7 +22,7 @@
 ## 🛠️ Skills
 
 - 💻 Programming & Scripting: `C`, `C++`, `Python`, `Bash`
-- 🧰 Tools: `Git`, `AURIX Development Studio`, `Qualcomm PCAT/QXDM`, `Anritsu's Signalling Tester`, `TestRail`, `Jira`
+- 🧰 Tools: `Git`, `AURIX Development Studio`, `Qualcomm PCAT/QXDM`, `Anritsu's Signalling Tester`, `TestRail`, `Jira`, `Confluence`, `PlantUML`
 - 🔌 Microcontrollers: `Infineon AURIX TC375` 
 - 🌐 Languages : English CEFR C1, German CEFR A2 (Ongoing)
 
@@ -35,8 +35,9 @@
 
 ---
 
-## 🏢 Training
+## 🏢 Training and Certifications
 
+- **Vector Certified Embedded Associate (CEA.C) AUTOSAR Classic Platform** *(Apr 2026)* 
 - **Emertxe Information Technologies, India** – Embedded Systems Trainee *(Jul 2022 – Apr 2023)* 
 
 ---
