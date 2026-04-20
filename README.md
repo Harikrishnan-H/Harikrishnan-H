@@ -37,7 +37,7 @@
 
 ## 🏢 Training and Certifications
 
-- **Vector Certified Embedded Associate (CEA.C) AUTOSAR Classic Platform** *(Apr 2026)* 
+-  <a href="https://certification.vector.com/badges/badge.php?hash=57b7bec79234498b8a01431c1e97001fa2ddd586">**Vector Certified Embedded Associate (CEA.C) AUTOSAR Classic Platform**</a> *(Apr 2026)*
 - **Emertxe Information Technologies, India** – Embedded Systems Trainee *(Jul 2022 – Apr 2023)* 
 
 ---
