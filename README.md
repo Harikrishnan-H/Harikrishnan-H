@@ -22,14 +22,15 @@
 ## 🛠️ Skills
 
 - 💻 Programming & Scripting: `C`, `C++`, `Python`, `Bash`
-- 🧰 Tools: `Git`, `AURIX Development Studio`, `Qualcomm PCAT/QXDM`, `Anritsu's Signalling Tester`, `TestRail`, `Jira`, `Confluence`, `PlantUML`
-- 🔌 Microcontrollers: `Infineon AURIX TC375` 
-- 🌐 Languages : English CEFR C1, German CEFR A2 (Ongoing)
+- 🧰 Tools & Platforms: `Git`, `TestRail`, `Jira`, `Confluence`, ` Wireshark`, `AURIX Development Studio`, `Arduino IDE`, `Qualcomm
+QXDM/PCAT`, `Anritsu Signalling Tester`, `DLT-viewer`, `PlantUML`, `Visual Studio`, `PyCharm`, `Linux/Ubuntu`, `MS Office`
+- 🔌 Microcontrollers: `Infineon AURIX TC375`, `Raspberry Pi`, `Arduino` 
+- 🌐 Languages : English CEFR C2, German CEFR A2 (Ongoing)
 
 ---
 
 ## 🧑‍💼 Work Experience
-
+- **Student Assistant @ Technische Hochschule Deggendorf** *(Mar 2026 – May 2026)*
 -  **Software Engineer @ LG Soft India** *(Mar 2023 – Feb 2024)*
 -  **Quality Service Associate  @ Amazon Development Centre India** *(Jan 2022 – Jul 2022)*
 
@@ -40,6 +41,10 @@
 -  <a href="https://certification.vector.com/badges/badge.php?hash=57b7bec79234498b8a01431c1e97001fa2ddd586">**Vector Certified Embedded Associate (CEA.C) AUTOSAR Classic Platform**</a> *(Apr 2026)*
 - **Emertxe Information Technologies, India** – Embedded Systems Trainee *(Jul 2022 – Apr 2023)* 
 
+---
+
+## 🏅 Awards
+- **DAAD STIBET Scholarship for special commitment - DAAD / Technische Hochschule Deggendorf** *(Apr 2026)*
 ---
 
 ## 💬 Fun Corner
